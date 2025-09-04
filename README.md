@@ -14,6 +14,7 @@ to withdraw money,deposit.
 
 ## CLASS DIAGRAM
 
+<img width="800" height="755" alt="image" src="https://github.com/user-attachments/assets/4e9f040b-8f3d-4619-9e88-c6c4701200ba" />
 
 ## SEQUENCE DIAGRAM
 
